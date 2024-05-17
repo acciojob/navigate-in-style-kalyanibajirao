@@ -1,8 +1,6 @@
 .nav-bar {
             background-color: #D3D3D3;
             padding: 10px;
-	display: flex;
-	justify-content:inline-flex
         }
 
         .nav-list {
@@ -11,5 +9,6 @@
         }
 
         .nav-item {
-            
+            display: inline;
+            margin-right: 1rem;
         }
